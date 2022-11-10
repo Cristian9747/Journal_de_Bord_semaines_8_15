@@ -2,9 +2,8 @@
 ## Retour sur la sortie
 
 ### Oeuvre préférée
-Nommez l'oeuvre que vous avez préférée lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
+Momn ouvre préfére était celle des chanpignions car je trouve l'idée de connceter une vie bilogique minuscule a une machine électrique est fascinant
 
 
 ### Oeuvre la moins appréciée
-Nommez l'oeuvre que vous avez le moins aimé lors de notre visite. En 2 à 3 lignes, expliquez pourquoi. 
-
+L'oeuvre que j'ai la moins préféré c'est l'ouvre avec les bouteilles d'eau. Je trouvais que c'était un amas au hasard.
