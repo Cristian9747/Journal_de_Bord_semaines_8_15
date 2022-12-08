@@ -3,7 +3,7 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
+Nous créons un jeu vidéo de type Rpg tout par tour dont le but est d'échapper a sa propre tete vaincre ses démons et sa maladie mentale.  
 
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
