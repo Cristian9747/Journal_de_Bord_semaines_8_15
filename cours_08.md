@@ -2,7 +2,7 @@
 ## Retour sur la sortie
 
 ### Oeuvre préférée
-Mon ouvre préfére était celle des chanpignions car je trouve l'idée de connceter une vie bilogique minuscule a une machine électrique est fascinant. Je trouve que ca représente une grande évolution autant sur le point biologique que tecnologique.
+Mon ouvre préfére était celle des champignions car je trouve l'idée de connceter une vie bilogique minuscule a une machine électrique fascinante. Je trouve que ca représente une grande évolution humaine autant sur le point biologique que technologique.
 
 
 ### Oeuvre la moins appréciée
