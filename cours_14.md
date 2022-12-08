@@ -10,6 +10,6 @@ Le personnage se retrouve dans une grotte avec deux choix de chemin a faire et i
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis.
 ### Technologies 
-Plusieurs programmes a coder ayant chacun leur language perosnnel comme C#, C++, Java, des logiciels de dessin vectoriels (adobe Illustrator, Inskape etc...)qui définissent les dessins par des formules mathématiques et des point de contrôles et tout kes logciels d'animation possibles qui permettront de mettre en mouvement et dans un cadre(ordre spécifique) les images déja modelisés par les graphistes.
+Plusieurs programmes a coder ayant chacun leur language perosnnel comme C#, C++, Java, des logiciels de dessin vectoriels (adobe Illustrator, Inskape etc...)qui définissent les dessins par des formules mathématiques et des point de contrôles et tout les logciels d'animation possibles qui permettront de mettre en mouvement et dans un cadre(ordre spécifique) les images déja modelisés par les graphistes.
 ### Tâches
 La progrmmation, la modélisation 2d, l'animation 2d, la création de niveau, la cération de carte, la création de l'interface, la création d'effets spéciaux,la création du son et de la musique.
