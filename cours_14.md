@@ -8,9 +8,8 @@ Notre projet est une vente sous forme de pitch ou l'on devra porposer un nouveau
 ### Schéma du projet ou scénarimage
 Le personnage se retrouve dans une grotte avec deux choix de chemin a faire et il est confus. Apres quelques combats il décuvre un roayaume ou il va rencontrer divers personnages. De village en village il va essayer de trouver des alliés pour le guider et il devra utliser les divers pouvoirs magiques qu'il a acquis gradullement afin d'affronter des ennemis (pouvant représenter plusieurs partie de sa personnalité, ses plus grandes peurs) qu'il peut capturer et tourner en allié. Un des ennemis lui donnera éventuellment acces a une clé. A mesure qu'il explore les villages et interroge les gens il tombera éventuellment dans la grotte final ou se situe le boss. Apres avoir combattu plusieurs ennemis qui vont le ralentir, le personnage déblque avec la clé qu'il a acquéri la salle du bosse. Il se rend compte que son ennemi c'est lui meme(sés défauts, une version méchante de lui qu'il veut éviter de devenir) Lorsque le peronnage principal réussit a vaincre le boss, il se rend compte que celui -ci était dans sa tete tout le long et se éveille de son reve.
 ### Moodboard
-Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
-### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
-
+Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis.
+### Technologies 
+Plusieurs programmes a coder ayant chacun leur language perosnnel comme C#, C++, Java, des logiciels de dessin vectoriels (adobe Illustrator, Inskape etc...)qui définissent les dessins par des formules mathématiques et des point de contrôles et tout kes logciels d'animation possibles qui permettront de mettre en mouvement et dans un cadre(ordre spécifique) les images déja modelisés par les graphistes.
 ### Tâches
 La progrmmation, la modélisation 2d, l'animation 2d, la création de niveau, la cération de carte, la création de l'interface, la création d'effets spéciaux,la création du son et de la musique.
